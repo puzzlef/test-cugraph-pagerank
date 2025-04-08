@@ -15,3 +15,5 @@ PageRank time: 16.27101421356201 ms
 
 - [RAPIDS cuGraph API Reference](https://docs.rapids.ai/api/cugraph/stable/api.html)
 - [RAPIDS cuGraph GPU Graph Analytics Library](https://github.com/rapidsai/cugraph)
+
+![](https://ga-beacon.deno.dev/G-KD28SG54JQ:hbAybl6nQFOtmVxW4if3xw/github.com/puzzlef/test-cugraph-pagerank)
